@@ -1,0 +1,9 @@
+site_name: Documentacion del Proyecto
+nav:
+  - Inicio: index.md
+  - Manual de Usuario: Manual_de_Usuario.md
+  - Guia de Referencia: Guia_de_Referencia.md
+  - Guia de Instalacion: Guia_de_Instalacion.md
+theme:
+  #name: 'readthedocs'
+  name: 'material'

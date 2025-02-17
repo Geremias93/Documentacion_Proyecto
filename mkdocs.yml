@@ -2,8 +2,11 @@ site_name: Documentacion del Proyecto
 nav:
   - Inicio: index.md
   - Manual de Usuario: Manual_de_Usuario.md
-  - Guia de Referencia: Guia_de_Referencia.md
-  - Guia de Instalacion: Guia_de_Instalacion.md
+  - Guía de Referencia: Guia_de_Referencia.md
+  - Guía de Instalación: Guia_de_Instalacion.md
+  - 📄 Descarga de PDFs:
+      - 📘 Manual de Usuario (PDF): Manual_de_Usuario.pdf
+      - 📕 Guía de Referencia (PDF): Guia_de_Referencia.pdf
+      - 📗 Guía de Instalación (PDF): Guia_de_Instalacion.pdf
 theme:
-  #name: 'readthedocs'
   name: 'material'
